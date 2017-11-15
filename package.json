@@ -1,0 +1,27 @@
+{
+  "name": "keeping-up",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A project for learning TypeScript & React.js",
+  "main": "out/app.js",
+  "author": "Dimitri Agiakatsikas",
+  "dependencies": {
+    "@types/react": "^15.6.6",
+    "@types/react-dom": "^15.5.6",
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2"
+  },
+  "devDependencies": {
+    "@types/react": "^15.0.34",
+    "@types/react-dom": "^15.5.1",
+    "awesome-typescript-loader": "^3.3.0",
+    "css-loader": "^0.28.7",
+    "source-map-loader": "^0.2.3",
+    "style-loader": "^0.19.0",
+    "typescript": "^2.6.1",
+    "webpack": "^3.0.0"
+  },
+  "scripts": {
+    "webpack": "webpack"
+  }
+}
